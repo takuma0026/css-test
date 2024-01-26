@@ -1,0 +1,44 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header_left {
+    color: blue;
+    margin: 10px;
+    font-size: 20px;
+}
+
+.header_right {
+    display: flex;
+    font-weight: bold;
+    font-size: 10px;
+    margin: 10px;
+}
+
+.header_navi {
+    margin-right: 20px;
+}
+
+
+
+.image1 {
+    width: 50%;
+    height: 50%;
+    margin-top: 30px;
+}
+
+.main2 {
+    margin-top: 230px;
+}
+
+.image2 {
+    background-color: blue;
+    height: 200px;
+    width: 70%;
+}
+
+.message {
+    font-size: 50px;
+
+}
