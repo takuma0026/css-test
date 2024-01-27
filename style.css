@@ -29,13 +29,16 @@
 }
 
 .main2 {
-    margin-top: 230px;
+    margin-top: 25%;
+    max-width: 1500px;
+    height: 250px;
+
 }
 
 .image2 {
     background-color: blue;
-    height: 200px;
-    width: 70%;
+    width: 70vw;
+    height: 10vw;
 }
 
 .message {
