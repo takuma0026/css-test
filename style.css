@@ -18,9 +18,12 @@
 
 .header_navi {
     margin-right: 20px;
+    text-decoration: none;
 }
 
-
+.aaa {
+    text-decoration: none;
+}
 
 .image1 {
     width: 50%;
